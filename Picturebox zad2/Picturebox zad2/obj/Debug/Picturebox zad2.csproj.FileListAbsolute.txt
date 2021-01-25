@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\bin\Debug\Picturebox zad2.exe.config
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\bin\Debug\Picturebox zad2.exe
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\bin\Debug\Picturebox zad2.pdb
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox zad2.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox_zad2.Form1.resources
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox_zad2.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox zad2.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox zad2.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox zad2.exe
+C:\Users\toni-PC\source\repos\Picturebox zad2\Picturebox zad2\obj\Debug\Picturebox zad2.pdb
